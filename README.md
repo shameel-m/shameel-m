@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shameel</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
-- 📫 How to reach me **shameel.mx@gmail.com**
+- 📫 Reach me **shameel.mx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
